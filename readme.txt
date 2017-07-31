@@ -14,6 +14,11 @@ OnePress is distributed under the terms of the GNU GPL
 == Description ==
 OnePress is an outstanding creative and flexible WordPress one page theme well suited for business, portfolio, digital agency, product showcase, freelancers and everyone else who appreciate good design.
 
+== Plugins ==
+- advanced-custom-field-repeater-collapser
+- advanced-custom-fields-pro
+- contact-form-7
+
 == Installation ==
 
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
